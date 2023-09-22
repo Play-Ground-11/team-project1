@@ -1,4 +1,4 @@
-# Team prject
+# Team project
 
 ### Version
 0.1.0
